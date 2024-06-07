@@ -1,11 +1,6 @@
 /* CSS QUI CONCERNE PLUSIEURS PAGES A LA FOIS */
 /*************** Fonts *******************/
 @font-face {
-    font-family: 'SpaceMono';
-    src: url('../assets/fonts/Space_Mono/SpaceMono-Regular.ttf');
-}
-
-@font-face {
     font-family: 'Poppins';
     src: url('../assets/fonts/Poppins/Poppins-Regular.ttf');
 }
